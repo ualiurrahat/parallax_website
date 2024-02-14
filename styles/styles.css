@@ -31,5 +31,15 @@
   transform: translateZ(-40px) scale(4);
 }
 .foreground-img {
-  transform: translateZ(-20px) scale(2.5);
+  transform: translateZ(-20px) scale(3);
+}
+h1 {
+  position: absolute;
+  font-size: 10rem;
+  color: white;
+  top: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  letter-spacing: 4px;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
