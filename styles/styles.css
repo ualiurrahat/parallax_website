@@ -10,7 +10,7 @@
   overflow-y: auto;
   perspective: 15px;
 }
-.container {
+.banner-section {
   height: 100%;
   position: relative;
   display: flex;
